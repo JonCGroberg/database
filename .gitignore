@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other files to ignore
+*.env
+*.DS_Store
